@@ -2,7 +2,8 @@
 ##  Diskripsi Project 
 Aplikasi ini menjelaskan tentang Pengolahan Sampah.
 ## Screenshot<br>
-<img src = KelolaSampah/Images/.jpeg>
+<img src = Images/2.jpeg>
+<img src = Images/1.jpeg>
 
 ## Built With<br>
 Flutter
