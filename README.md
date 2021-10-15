@@ -2,7 +2,6 @@
 ##  Diskripsi Project 
 Aplikasi ini menjelaskan tentang Pengolahan Sampah.
 ## Screenshot<br>
-<img src = 2.png><br>
 <img src = 1.png>
 
 ## Built With<br>
