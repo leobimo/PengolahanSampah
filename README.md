@@ -2,8 +2,8 @@
 ##  Diskripsi Project 
 Aplikasi ini menjelaskan tentang Pengolahan Sampah.
 ## Screenshot<br>
-<img src = Images/2.png>
-<img src = Images/1.png>
+<img src = Images\2.png>
+<img src = Images\1.png>
 
 ## Built With<br>
 Flutter
